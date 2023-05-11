@@ -6,7 +6,7 @@ package main
 import ("fmt")
 
 func main() {
-  fmt.Println("Hello World!")
+  fmt.Println("Hola Mundo!")
 }
 
 // Luego corre el siguiente comando para ejecutar el programa:
@@ -14,3 +14,4 @@ func main() {
 
 // Si quieres guardar el programa en un archivo ejecutable, corre el siguiente comando:
 // go build holamundo.go
+
