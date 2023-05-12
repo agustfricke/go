@@ -37,7 +37,9 @@ fácil de aprender y escribir.
 // se utiliza en una amplia variedad de aplicaciones, desde servidores web 
 // hasta herramientas de línea de comandos y sistemas operativos.
 
+<head>
 	<title>Download and Install Go</title>
+</head>
 	<h3>Download and install Go</h3>
 	<p>Download and install Go quickly with the steps described <a href="#">here</a>.</p>
 	<p>For other content on installing, you might be interested in:</p>
