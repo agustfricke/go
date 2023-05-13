@@ -1,3 +1,3 @@
-module ejemplo.com/holamundo.go
+module ejemplo.com/tutorial
 
 go 1.20
