@@ -23,8 +23,8 @@ func main() {
   fmt.Println(arr2)
 
   // Sin la longitud definida
-  var arr3 = [5]int{1,2,3,4,5}
-  arr4 := [5]int{6,7,8,9,10}
+  var arr3 = [...]int{1,2,3,4,5}
+  arr4 := [...]int{6,7,8,9,10}
 
   fmt.Println(arr3)
   fmt.Println(arr4)
