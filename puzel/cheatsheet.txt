@@ -1,0 +1,19 @@
+sudo docker ps  
+docker images -a
+
+docker rm (container id)
+docker rmi <your-image-id>
+
+service docker status / start / stop / restart
+
+REDIS 
+docker run -p 6379:3679 -d redis 
+
+POSTGRES
+sudo docker run --name [name] -e POSTGRES_USER=[username] -e POSTGRES_PASSWORD=[password] -p 5432:5432 -d postgres
+
+sudo docker exec -it [name] bash
+
+psql -U [username] --password
+
+CREATE DATABASE [NAME];
